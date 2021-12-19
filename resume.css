@@ -1,0 +1,16 @@
+/*This is my stylesheet for my resume. Damon Arnold
+ <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Damon Arnold" />
+    <title>Damon's Resume</title>
+    <link rel="stylesheet" href="resume.css" />
+  </head>
+  <body>
+    <h1>Damon L. Arnold</h1>
+    <ul class="student">
+      Student Software Engineer
+    </ul>
+    <ul class="phone">
+      720-789-1900
+    </ul>
+    <a href="mailto:damonarnold@damonarnold.com">damonarnold@damonarnol
