@@ -2,12 +2,9 @@ div.head {
     text-align: center;
 }
 
-.head {
+.profile {
   border-radius: 50%;
-  display: center;
-  margin-left: auto;
-  margin-right: auto;
-  width: auto;
+  display: ;
 }
 
 .background {
@@ -15,4 +12,14 @@ div.head {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+}
+
+.info{
+  font-display: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div.contact{
+  font-weight: bolder;
+  font-size: 30px;
 }
