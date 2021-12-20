@@ -1,16 +1,10 @@
-/*This is my stylesheet for my resume. Damon Arnold
- <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="author" content="Damon Arnold" />
-    <title>Damon's Resume</title>
-    <link rel="stylesheet" href="resume.css" />
-  </head>
-  <body>
-    <h1>Damon L. Arnold</h1>
-    <ul class="student">
-      Student Software Engineer
-    </ul>
-    <ul class="phone">
-      720-789-1900
-    </ul>willw th is work
-    <a href="mailto:damonarnold@damonarnold.com">damonarnold@damonarnold ]Now lets see if this works
+div.head {
+    text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
