@@ -2,9 +2,17 @@ div.head {
     text-align: center;
 }
 
-.center {
-  display: block;
+.head {
+  border-radius: 50%;
+  display: center;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: auto;
+}
+
+.background {
+  display: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 }
