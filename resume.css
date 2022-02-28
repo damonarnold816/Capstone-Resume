@@ -1,4 +1,4 @@
-div.head {
+.head {
     text-align: center;
 }
 
@@ -19,7 +19,12 @@ div.head {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-div.contact{
+.contact{
   font-weight: bolder;
   font-size: 30px;
+}
+
+
+img {
+  float: left;
 }
